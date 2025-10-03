@@ -2,7 +2,7 @@
 
 function toggleCompetences() {
 
-const compSection = document.getElementById('competences');
+const compSection = document.getElementById('Competences');
 
 compSection.style.display =
 
